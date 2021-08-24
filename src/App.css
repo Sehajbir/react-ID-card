@@ -1,0 +1,96 @@
+body {
+  height: 100%;
+  width: 100%;
+  background: #a0c1d1;
+  color: #232c33;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.card {
+  background: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 450px;
+  height: 600px;
+  text-align: center;
+  border-radius: 15px;
+  position: relative;
+}
+
+.profileImg {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  margin-top: 30px;
+}
+
+h1 {
+  font-family: "Rubik", sans-serif;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "Rubik", sans-serif;
+}
+.icon {
+  color: blue;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
+
+.links-wrapper {
+  display: block;
+  width: 70%;
+  padding: 12px;
+  margin-top: 50px;
+  margin-left: 15%;
+  text-align: left;
+}
+
+.links {
+  margin-bottom: 10px;
+  line-height: 24px;
+  height: 24px;
+  display: inline-flex;
+}
+.links > .icon {
+  font-size: 24px;
+  margin-right: 32px;
+}
+.footer {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.footer > p {
+  font-family: inherit;
+  font-weight: lighter;
+}
+
+.refresh {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.icon.refresh {
+  font-size: 18px;
+}
+
+.rawInfo {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.icon.rawInfo {
+  color: black;
+}
