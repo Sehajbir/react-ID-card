@@ -1,4 +1,4 @@
-import React, { Component, useState } from 'react'
+import React, { Component } from 'react'
 import './App.css'
 import {IoOpenOutline} from 'react-icons/io5'
 import {AiFillMail, AiFillPhone, AiFillInfoCircle} from 'react-icons/ai'
