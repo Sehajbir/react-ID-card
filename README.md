@@ -14,8 +14,8 @@ Runs the application in developer mode at http://localhost:3000
 
 You can view the live version of this react app at this [link] (https://angry-hodgkin-ac52a9.netlify.app/)
 
-![refresh] (https://github.com/grommet/grommet-icons/blob/master/public/img/form-refresh.svg) -> Refresh the page and fetch a new result from the API.
+![refresh](https://github.com/grommet/grommet-icons/blob/master/public/img/form-refresh.svg) -> Refresh the page and fetch a new result from the API.
 
-![info] (https://github.com/ant-design/ant-design-icons/blob/master/packages/icons-svg/svg/filled/info-circle.svg) -> View Raw response of the API.
+![info](https://github.com/feathericons/feather/blob/master/icons/info.svg) -> View Raw response of the API.
 
-![view] (https://github.com/feathericons/feather/blob/master/icons/external-link.svg) -> Search the location on Google Maps.
+![view](https://github.com/feathericons/feather/blob/master/icons/external-link.svg) -> Search the location on Google Maps.
