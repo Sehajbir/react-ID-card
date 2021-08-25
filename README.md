@@ -12,7 +12,7 @@ Runs the application in developer mode at http://localhost:3000
 
 ## Application UI interactions
 
-You can view the live version of this react app at this [link] (https://angry-hodgkin-ac52a9.netlify.app/)
+You can view the live version of this react app at this [link](https://angry-hodgkin-ac52a9.netlify.app/)
 
 ![refresh](https://github.com/grommet/grommet-icons/blob/master/public/img/form-refresh.svg) -> Refresh the page and fetch a new result from the API.
 
